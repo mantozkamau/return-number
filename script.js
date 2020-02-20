@@ -7,7 +7,7 @@ function myFunction(){
     }
     
     else {
-        word+(st+1);
+      return  word+(st+1);
     }
     
     };
